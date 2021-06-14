@@ -1,0 +1,6 @@
+C:\Users\admin\RiderProjects\GeometricObjectDemo\IndexersDemo\bin\Debug\IndexersDemo.exe
+C:\Users\admin\RiderProjects\GeometricObjectDemo\IndexersDemo\bin\Debug\IndexersDemo.pdb
+C:\Users\admin\RiderProjects\GeometricObjectDemo\IndexersDemo\obj\Debug\IndexersDemo.csprojAssemblyReference.cache
+C:\Users\admin\RiderProjects\GeometricObjectDemo\IndexersDemo\obj\Debug\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\GeometricObjectDemo\IndexersDemo\obj\Debug\IndexersDemo.exe
+C:\Users\admin\RiderProjects\GeometricObjectDemo\IndexersDemo\obj\Debug\IndexersDemo.pdb

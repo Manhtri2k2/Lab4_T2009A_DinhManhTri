@@ -1,0 +1,6 @@
+C:\Users\admin\RiderProjects\GeometricObjectDemo\GeometricObjectDemo\bin\Debug\GeometricObjectDemo.exe
+C:\Users\admin\RiderProjects\GeometricObjectDemo\GeometricObjectDemo\bin\Debug\GeometricObjectDemo.pdb
+C:\Users\admin\RiderProjects\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\GeometricObjectDemo.csprojAssemblyReference.cache
+C:\Users\admin\RiderProjects\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\GeometricObjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\GeometricObjectDemo.exe
+C:\Users\admin\RiderProjects\GeometricObjectDemo\GeometricObjectDemo\obj\Debug\GeometricObjectDemo.pdb

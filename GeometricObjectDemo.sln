@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricObjectDemo", "GeometricObjectDemo\GeometricObjectDemo.csproj", "{0651D52A-C614-4F96-89CA-423097E2CDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersDemo", "IndexersDemo\IndexersDemo.csproj", "{AD4609D4-FD22-4DEA-AB4A-78FC6AAB6142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part4", "Part4\Part4.csproj", "{D63319F5-FFFA-4322-801D-50297C8DE464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0651D52A-C614-4F96-89CA-423097E2CDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0651D52A-C614-4F96-89CA-423097E2CDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0651D52A-C614-4F96-89CA-423097E2CDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0651D52A-C614-4F96-89CA-423097E2CDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4609D4-FD22-4DEA-AB4A-78FC6AAB6142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4609D4-FD22-4DEA-AB4A-78FC6AAB6142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4609D4-FD22-4DEA-AB4A-78FC6AAB6142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4609D4-FD22-4DEA-AB4A-78FC6AAB6142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63319F5-FFFA-4322-801D-50297C8DE464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63319F5-FFFA-4322-801D-50297C8DE464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63319F5-FFFA-4322-801D-50297C8DE464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63319F5-FFFA-4322-801D-50297C8DE464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
